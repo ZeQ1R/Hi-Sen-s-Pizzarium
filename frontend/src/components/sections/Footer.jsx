@@ -47,7 +47,7 @@ const Footer = () => {
                 <Pizza className="w-7 h-7 text-cream" />
               </div>
               <span className="font-heading font-bold text-2xl">
-                Hi-Sen's <span className="text-primary">Pizzarium</span>
+                Hi-Sen&apos;s <span className="text-primary">Pizzarium</span>
               </span>
             </a>
             <p className="text-cream/70 max-w-md mb-6">

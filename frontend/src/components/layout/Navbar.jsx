@@ -68,7 +68,7 @@ const Navbar = () => {
                 <Pizza className="w-6 h-6 text-primary-foreground" />
               </div>
               <span className="font-heading font-bold text-xl text-foreground">
-                Hi-Sen's <span className="text-primary">Pizzarium</span>
+                Hi-Sen&apos;s <span className="text-primary">Pizzarium</span>
               </span>
             </motion.a>
 

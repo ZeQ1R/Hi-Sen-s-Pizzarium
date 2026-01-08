@@ -41,7 +41,7 @@ const Hero = () => {
           >
             <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/20 backdrop-blur-sm border border-primary/30 text-primary-foreground text-sm font-medium">
               <span className="w-2 h-2 rounded-full bg-primary animate-pulse" />
-              Welcome to Hi-Sen's Pizzarium
+              Welcome to Hi-Sen&apos;s Pizzarium
             </span>
           </motion.div>
 
