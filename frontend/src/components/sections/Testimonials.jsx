@@ -143,7 +143,7 @@ const Testimonials = () => {
 
                 {/* Text */}
                 <p className="text-lg lg:text-xl text-foreground leading-relaxed mb-8">
-                  "                  &quot;{currentTestimonials[currentIndex].text}&quot;"
+                  &ldquo;{currentTestimonials[currentIndex].text}&rdquo;
                 </p>
 
                 {/* Author */}
