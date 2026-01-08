@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "orderNow": "Order Now"
+  },
+  "hero": {
+    "headline": "Fresh Pizza. Friendly Vibes.",
+    "subheading": "Casual dining, quick bites, and family-friendly atmosphere.",
+    "viewMenu": "View Menu",
+    "orderNow": "Order Now"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Our Story",
+    "description": "Hi-Sen's Pizzarium is your go-to place for delicious pizza, quick bites, and a relaxed atmosphere. Whether you dine in, take away, or order delivery, we're here to make you feel at home.",
+    "yearsExperience": "Years Experience",
+    "happyCustomers": "Happy Customers",
+    "freshIngredients": "Fresh Ingredients"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "How We Serve You",
+    "delivery": "Delivery",
+    "deliveryDesc": "Fast delivery to your doorstep",
+    "takeaway": "Takeaway",
+    "takeawayDesc": "Quick pickup, ready when you are",
+    "dineIn": "Dine-in",
+    "dineInDesc": "Enjoy our cozy atmosphere",
+    "tableService": "Table Service",
+    "tableServiceDesc": "Full service at your table",
+    "quickBite": "Quick Bite",
+    "quickBiteDesc": "Perfect for a fast meal"
+  },
+  "amenities": {
+    "title": "Amenities & Features",
+    "subtitle": "Everything You Need",
+    "wheelchair": "Wheelchair-accessible entrance",
+    "wifi": "Free Wi-Fi",
+    "toilet": "Toilet",
+    "parking": "Plenty of parking",
+    "dogs": "Dogs allowed outside",
+    "cards": "Credit cards accepted",
+    "kids": "Good for kids"
+  },
+  "popularFor": {
+    "title": "Popular For",
+    "dinner": "Dinner",
+    "solo": "Solo dining",
+    "groups": "Groups",
+    "families": "Families"
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "A Taste of Hi-Sen's"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Real Reviews"
+  },
+  "cta": {
+    "headline": "Good pizza. Good people. Good times.",
+    "orderNow": "Order Now",
+    "visitUs": "Visit Us"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get In Touch",
+    "name": "Name",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send Message",
+    "address": "Address",
+    "hours": "Hours",
+    "hoursValue": "Mon-Sun: 10:00 - 23:00"
+  },
+  "footer": {
+    "copyright": "© 2025 Hi-Sen's Pizzarium. All rights reserved.",
+    "tagline": "Fresh Pizza. Friendly Vibes."
+  }
+}

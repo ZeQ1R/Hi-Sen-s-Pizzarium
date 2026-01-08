@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Kryefaqja",
+    "menu": "Menu",
+    "about": "Rreth Nesh",
+    "services": "Shërbimet",
+    "gallery": "Galeria",
+    "contact": "Kontakt",
+    "orderNow": "Porosit Tani"
+  },
+  "hero": {
+    "headline": "Pizza e freskët. Atmosferë miqësore.",
+    "subheading": "Ushqim i shpejtë, shërbim i rehatshëm dhe ambient familjar.",
+    "viewMenu": "Shiko Menunë",
+    "orderNow": "Porosit Tani"
+  },
+  "about": {
+    "title": "Rreth Nesh",
+    "subtitle": "Historia Jonë",
+    "description": "Hi-Sen's Pizzarium është vendi ideal për pica të shijshme, ushqime të shpejta dhe një ambient të relaksuar. Qoftë për të ngrënë në vend, për takeaway apo delivery – ne ju mirëpresim gjithmonë.",
+    "yearsExperience": "Vite Përvojë",
+    "happyCustomers": "Klientë të Kënaqur",
+    "freshIngredients": "Përbërës të Freskët"
+  },
+  "services": {
+    "title": "Shërbimet Tona",
+    "subtitle": "Si Ju Shërbejmë",
+    "delivery": "Dërgesë",
+    "deliveryDesc": "Dërgesë e shpejtë në derën tuaj",
+    "takeaway": "Për të marrë me vete",
+    "takeawayDesc": "Gati kur të vini ju",
+    "dineIn": "Për të ngrënë në lokal",
+    "dineInDesc": "Shijoni ambientin tonë të ngrohtë",
+    "tableService": "Shërbim në tavolinë",
+    "tableServiceDesc": "Shërbim i plotë në tavolinën tuaj",
+    "quickBite": "Ushqim i shpejtë",
+    "quickBiteDesc": "Perfekt për një vakt të shpejtë"
+  },
+  "amenities": {
+    "title": "Komoditetet & Veçoritë",
+    "subtitle": "Gjithçka që Ju Duhet",
+    "wheelchair": "Hyrje e aksesueshme për karroca",
+    "wifi": "Wi-Fi falas",
+    "toilet": "Tualet",
+    "parking": "Parkim i bollshëm",
+    "dogs": "Qentë lejohen jashtë",
+    "cards": "Pagesa me kartë",
+    "kids": "I përshtatshëm për fëmijë"
+  },
+  "popularFor": {
+    "title": "Popullar Për",
+    "dinner": "Darkë",
+    "solo": "Ngrënie vetëm",
+    "groups": "Grupe",
+    "families": "Familje"
+  },
+  "gallery": {
+    "title": "Galeria Jonë",
+    "subtitle": "Një Shikim në Hi-Sen's"
+  },
+  "testimonials": {
+    "title": "Çfarë Thonë Klientët Tanë",
+    "subtitle": "Vlerësime të Vërteta"
+  },
+  "cta": {
+    "headline": "Pizza e mirë. Njerëz të mirë. Momente të bukura.",
+    "orderNow": "Porosit Tani",
+    "visitUs": "Na Vizitoni"
+  },
+  "contact": {
+    "title": "Na Kontaktoni",
+    "subtitle": "Na Shkruani",
+    "name": "Emri",
+    "phone": "Telefoni",
+    "message": "Mesazh",
+    "send": "Dërgo Mesazhin",
+    "address": "Adresa",
+    "hours": "Orari",
+    "hoursValue": "Hënë-Diel: 10:00 - 23:00"
+  },
+  "footer": {
+    "copyright": "© 2025 Hi-Sen's Pizzarium. Të gjitha të drejtat e rezervuara.",
+    "tagline": "Pizza e freskët. Atmosferë miqësore."
+  }
+}
