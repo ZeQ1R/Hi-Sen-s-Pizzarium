@@ -119,11 +119,11 @@ const Hero = () => {
         animate={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.8, delay: 0.5 }}
       >
-        <img
+        {/* <img
           src="https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?w=800&q=80"
           alt="Pizza"
           className="w-full h-full object-contain object-right-bottom opacity-60"
-        />
+        /> */}
       </motion.div>
 
       {/* Scroll Indicator */}

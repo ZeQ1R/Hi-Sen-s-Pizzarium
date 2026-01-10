@@ -3,6 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { useLanguage } from '../../context/LanguageContext';
 import { Button } from '../ui/button';
 import { Menu, X, Pizza } from 'lucide-react';
+import logo from '../../images/hi-sen_s-removebg-preview.png';
 
 const languages = [
   { code: 'en', label: 'EN', flag: '🇬🇧' },
@@ -68,7 +69,8 @@ const Navbar = () => {
                 <Pizza className="w-6 h-6 text-primary-foreground" />
               </div>
               <span className="font-heading font-bold text-xl text-foreground">
-                Hi-Sen&apos;s <span className="text-primary">Pizzarium</span>
+                {/* Hi-Sen&apos;s <span className="text-primary">Pizzarium</span> */}
+                <img src={logo} alt="Hi-Sen's Pizzarium Logo" className='w-[250px] h-[150px] mt-[20px]' />
               </span>
             </motion.a>
 
@@ -83,7 +85,7 @@ const Navbar = () => {
                       e.preventDefault();
                       scrollToSection(item.href);
                     }}
-                    className="px-4 py-2 text-foreground/80 hover:text-primary font-medium transition-colors rounded-lg hover:bg-primary/5"
+                    className="px-4 py-2 text-black hover:text-primary font-medium transition-colors rounded-lg hover:bg-primary/5"
                     whileHover={{ scale: 1.02 }}
                     whileTap={{ scale: 0.98 }}
                   >
@@ -174,7 +176,7 @@ const Navbar = () => {
                   initial={{ opacity: 0, x: -20 }}
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: index * 0.05 }}
-                  className="px-4 py-3 text-lg font-medium text-foreground hover:text-primary hover:bg-primary/5 rounded-xl transition-colors"
+                  className="px-4 py-3 text-lg font-medium text-red-500 hover:text-primary hover:bg-primary/5 rounded-xl transition-colors"
                 >
                   {t(`nav.${item.key}`)}
                 </motion.a>

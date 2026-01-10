@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { useLanguage } from '../../context/LanguageContext';
 import { Pizza, Instagram, Facebook, Phone, Mail } from 'lucide-react';
+import logo from '../../images/hi-sen_s-removebg-preview.png';
 
 const Footer = () => {
   const { t } = useLanguage();
@@ -47,7 +48,8 @@ const Footer = () => {
                 <Pizza className="w-7 h-7 text-cream" />
               </div>
               <span className="font-heading font-bold text-2xl">
-                Hi-Sen&apos;s <span className="text-primary">Pizzarium</span>
+                {/* Hi-Sen&apos;s <span className="text-primary">Pizzarium</span> */}
+                <img src={logo} alt="Hi-Sen's Pizzarium Logo" className='w-[250px] h-[150px]' />
               </span>
             </a>
             <p className="text-cream/70 max-w-md mb-6">
